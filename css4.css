@@ -6,7 +6,7 @@
     font-family: "Poppins", sans-serif;
 }
 .sec2{
-     position: absolute;
+    position: absolute;
     top: 10%;
     height: 100vh;
     width: 100%;
@@ -138,6 +138,6 @@ button{
 @media (max-width: 768px){
     .parent-card{
         max-width: 100%;
-        padding: 30px;
+        padding: 3%;
     }
 }
